@@ -2,10 +2,10 @@
 * @Author: YH
 * @Date:   2016-05-05 13:33:24
 * @Last Modified by:   YH
-* @Last Modified time: 2016-05-05 13:57:47
+* @Last Modified time: 2016-05-05 14:46:57
 */
 
-require(["init", 
+require([ 
 	"main",
 	 "resource",
 	 "texas/init",
@@ -56,5 +56,5 @@ require(["init",
 	 "Framework/View/Role/RoleManager",
 	 "Framework/View/Scene/GameScene"
 	 ], function (init, main, $) {
-    alert(init+main+$)
+    alert(main+$)
 });
