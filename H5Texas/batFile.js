@@ -2,11 +2,10 @@
 * @Author: YH
 * @Date:   2016-05-05 13:33:24
 * @Last Modified by:   YH
-* @Last Modified time: 2016-05-05 14:46:57
+* @Last Modified time: 2016-05-05 15:05:33
 */
 
 require([ 
-	"main",
 	 "resource",
 	 "texas/Logic/GCardTool",
 	 "texas/Logic/GServerMonitor",
@@ -53,7 +52,8 @@ require([
 	 "Framework/View/Page/PageManager",
 	 "Framework/View/Role/BaseRole",
 	 "Framework/View/Role/RoleManager",
-	 "Framework/View/Scene/GameScene"
+	 "Framework/View/Scene/GameScene",
+	 "main"
 	 ], function (init, main, $) {
     alert(main+$)
 });
