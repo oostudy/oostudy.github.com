@@ -74,7 +74,7 @@ var RoleView = cc.Node.extend("RoleView", {
 
         if (!this.checkIsSelf())
         {
-            this._title = new cc.LabelTTF(this._name, "fonts/dream.ttf",18)
+            this._title = new cc.LabelTTF(this._name, "",18)
             this.addChild(this._title, 100)
             this._title.setAnchorPoint(cc.p(0.5, 0.5))
             this._title.setPosition(cc.p(0, 50))
@@ -87,7 +87,7 @@ var RoleView = cc.Node.extend("RoleView", {
 
         this._sp_chip_bg = new cc.Sprite("image/room/total_bg.png")
         this.addChild(this._sp_chip_bg, 1)
-        this._lbl_chip = new cc.LabelTTF(GHelper.convertChipNumToStr(this._chip), "fonts/AGENCYB.TTF",22)
+        this._lbl_chip = new cc.LabelTTF(GHelper.convertChipNumToStr(this._chip), "",22)
         this._lbl_chip.setFontFillColor(new cc.Color(21, 29, 32))
         this.addChild(this._lbl_chip, 2)
         this._lbl_chip.setAnchorPoint(cc.p(0, 0.5))
@@ -141,7 +141,7 @@ var RoleView = cc.Node.extend("RoleView", {
             var ttfConfig = { }
             ttfConfig.fontFilePath = 
             ttfConfig.fontSize = 22
-            this._lbl_cardtype = new cc.LabelTTF("","fonts/dream.ttf", 22)
+            this._lbl_cardtype = new cc.LabelTTF("","", 22)
             this._lbl_cardtype.enableStroke(new cc.Color(21, 29, 32), 2);
             this._cardTypeNode.addChild(this._lbl_cardtype)
             this._cardTypeNode.setVisible(false)
@@ -703,7 +703,7 @@ var RoleView = cc.Node.extend("RoleView", {
 
         if(!this._lbl_winchip)
         {
-            this._lbl_winchip = new cc.LabelTTF(0,"fonts/AGENCYB.TTF",30)
+            this._lbl_winchip = new cc.LabelTTF(0,"",30)
             this._lbl_winchip.enableStroke(new cc.Color(0, 0, 0, 153), 1)
             this._lbl_winchip.setColor(new cc.Color(255, 255, 255))
             this.addChild(this._lbl_winchip, 1000000000)

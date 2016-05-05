@@ -163,7 +163,6 @@
                 "LabelText": "桌子名称",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "fonts/dream.ttf",
                   "Plist": ""
                 },
                 "OutlineSize": 0,
@@ -1715,7 +1714,6 @@
                 "LabelText": "30秒后讲升级大小盲注",
                 "FontResource": {
                   "Type": "Normal",
-                  "Path": "fonts/dream.ttf",
                   "Plist": ""
                 },
                 "OutlineSize": 0,
@@ -1909,7 +1907,6 @@
       "UsedResources": [
         "../../Default/CheckBox_Disable.png",
         "../../Default/CheckBoxNode_Disable.png",
-        "../../fonts/dream.ttf",
         "../../fonts/font20_outLine.fnt",
         "../../fonts/font20_outLine.png",
         "../res/room/btn_back1.png",

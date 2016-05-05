@@ -6,7 +6,7 @@ var ChipView = cc.Node.extend("ChipView",{
         this._sp = new cc.Sprite("image/room/followBg.png")
         this.addChild(this._sp)
         this._chip = chip
-        this._text = new cc.LabelTTF(GHelper.convertChipNumToStr(chip),"fonts/AGENCYB.TTF",24)
+        this._text = new cc.LabelTTF(GHelper.convertChipNumToStr(chip),"",24)
         this._text.setFontFillColor(new cc.Color(248,171,91))
         this._text.setPositionY(1)
         this.addChild(this._text)
