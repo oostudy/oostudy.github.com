@@ -1,0 +1,1930 @@
+{
+  "ID": "23347375-b0ff-44f7-a069-86539bd9a7d4",
+  "Version": "2.3.2.3",
+  "Name": "Page_Room",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 40,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1136.0,
+            "TopMargin": 640.0,
+            "Tag": 45,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Page/res/room/table1.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 568,
+                "Scale9Height": 640,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 284.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": -568.0,
+                "TopMargin": -640.0,
+                "Tag": 757,
+                "ActionTag": -1443861765,
+                "Size": {
+                  "X": 568.0,
+                  "Y": 640.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Page/res/room/table2.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 568,
+                "Scale9Height": 640,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 852.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 568.0,
+                "RightMargin": -1136.0,
+                "TopMargin": -640.0,
+                "Tag": 758,
+                "ActionTag": -671058642,
+                "Size": {
+                  "X": 568.0,
+                  "Y": 640.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1409098965,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "node_room",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0004,
+              "Y": 21.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0328
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 0.0004,
+            "RightMargin": 1135.9996,
+            "TopMargin": 618.9999,
+            "BottomMargin": 21.0001,
+            "Tag": 161,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "桌子名称",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/dream.ttf",
+                  "Plist": ""
+                },
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 17.9978,
+                  "Y": 490.0023
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0158,
+                  "Y": 0.7656
+                },
+                "PreSize": {
+                  "X": 0.0634,
+                  "Y": 0.0422
+                },
+                "LeftMargin": 17.9978,
+                "RightMargin": 1022.0021,
+                "TopMargin": 136.4977,
+                "BottomMargin": 476.5023,
+                "Tag": 78,
+                "ActionTag": 2078684020,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 23.0
+                },
+                "Alpha": 76,
+                "Name": "Text_TableInfo",
+                "ctype": "TextObjectData"
+              },
+              {
+                "LabelText": "桌子名称:",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/font20_outLine.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 17.0753,
+                  "Y": 462.3079
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.015,
+                  "Y": 0.7224
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 17.0753,
+                "RightMargin": -107.0753,
+                "TopMargin": -472.3079,
+                "BottomMargin": 452.3079,
+                "Tag": 895,
+                "ActionTag": 871325856,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 20.0
+                },
+                "Alpha": 76,
+                "Name": "bmf_TableTime",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -1352596519,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "node_CashInfo",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -0.0005,
+              "Y": 32.9997
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0516
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -0.0005,
+            "RightMargin": 1136.0005,
+            "TopMargin": 607.0003,
+            "BottomMargin": 32.9997,
+            "Tag": 159,
+            "Children": [
+              {
+                "LabelText": "排名:",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/font20_outLine.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 18.0,
+                  "Y": 507.1134
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 18.0,
+                "RightMargin": -68.0,
+                "TopMargin": -517.1134,
+                "BottomMargin": 497.1134,
+                "Tag": 160,
+                "ActionTag": 864220762,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 20.0
+                },
+                "Alpha": 76,
+                "Name": "BitmapFontLabel_1",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "当前盲注:",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/font20_outLine.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 18.0,
+                  "Y": 461.1136
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 18.0,
+                "RightMargin": -108.0,
+                "TopMargin": -471.1136,
+                "BottomMargin": 451.1136,
+                "Tag": 162,
+                "ActionTag": 1640852686,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 20.0
+                },
+                "Alpha": 76,
+                "Name": "BitmapFontLabel_1_0",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "升盲倒计时:",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/font20_outLine.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 18.0,
+                  "Y": 438.1137
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 18.0,
+                "RightMargin": -128.0,
+                "TopMargin": -448.1137,
+                "BottomMargin": 428.1137,
+                "Tag": 163,
+                "ActionTag": 14319124,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 20.0
+                },
+                "Alpha": 76,
+                "Name": "BitmapFontLabel_1_1",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "前注:",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/font20_outLine.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 18.0,
+                  "Y": 484.1135
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 18.0,
+                "RightMargin": -68.0,
+                "TopMargin": -494.1135,
+                "BottomMargin": 474.1135,
+                "Tag": 85,
+                "ActionTag": -1336029373,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 20.0
+                },
+                "Alpha": 76,
+                "Name": "BitmapFontLabel_1_2",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "7/9",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/font20_outLine.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 70.8214,
+                  "Y": 507.1135
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 70.8214,
+                "RightMargin": -102.8214,
+                "TopMargin": -517.1135,
+                "BottomMargin": 497.1135,
+                "Tag": 164,
+                "ActionTag": -205770007,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 20.0
+                },
+                "Alpha": 76,
+                "Name": "bmf_SngRank",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "7/9",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/font20_outLine.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 116.2273,
+                  "Y": 461.1136
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 116.2273,
+                "RightMargin": -148.2273,
+                "TopMargin": -471.1136,
+                "BottomMargin": 451.1136,
+                "Tag": 165,
+                "ActionTag": 769326362,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 20.0
+                },
+                "Alpha": 76,
+                "Name": "bmf_Blind",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "7/9",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/font20_outLine.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 137.2278,
+                  "Y": 438.1137
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 137.2278,
+                "RightMargin": -169.2278,
+                "TopMargin": -448.1137,
+                "BottomMargin": 428.1137,
+                "Tag": 166,
+                "ActionTag": 1874219470,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 20.0
+                },
+                "Alpha": 76,
+                "Name": "bmf_BlindTime",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "7/9",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/font20_outLine.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 70.8215,
+                  "Y": 485.294
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 70.8215,
+                "RightMargin": -102.8215,
+                "TopMargin": -495.294,
+                "BottomMargin": 475.294,
+                "Tag": 86,
+                "ActionTag": -258732974,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 20.0
+                },
+                "Alpha": 76,
+                "Name": "bmf_preCoin",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -103881749,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "node_SngInfo",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1136.0,
+            "TopMargin": 640.0,
+            "Tag": 57,
+            "Children": [
+              {
+                "FontSize": 36,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 191,
+                  "G": 233,
+                  "B": 17
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Page/res/room/btn_invite1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 47,
+                "Scale9Height": 56,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 721.9943,
+                  "Y": 571.1094
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 682.4943,
+                "RightMargin": -761.4943,
+                "TopMargin": -609.6094,
+                "BottomMargin": 532.6094,
+                "Tag": 57,
+                "ActionTag": 1803583488,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 77.0
+                },
+                "Alpha": 204,
+                "Name": "btn_Seat1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 191,
+                  "G": 233,
+                  "B": 17
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Page/res/room/btn_invite1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 47,
+                "Scale9Height": 56,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 916.9938,
+                  "Y": 571.1094
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 877.4938,
+                "RightMargin": -956.4938,
+                "TopMargin": -609.6094,
+                "BottomMargin": 532.6094,
+                "Tag": 194,
+                "ActionTag": -896319072,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 77.0
+                },
+                "Alpha": 204,
+                "Name": "btn_Seat2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 191,
+                  "G": 233,
+                  "B": 17
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Page/res/room/btn_invite1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 47,
+                "Scale9Height": 56,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1063.9829,
+                  "Y": 389.7537
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1024.4829,
+                "RightMargin": -1103.4829,
+                "TopMargin": -428.2537,
+                "BottomMargin": 351.2537,
+                "Tag": 195,
+                "ActionTag": 1934570179,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 77.0
+                },
+                "Alpha": 204,
+                "Name": "btn_Seat3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 191,
+                  "G": 233,
+                  "B": 17
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Page/res/room/btn_invite1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 47,
+                "Scale9Height": 56,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 934.9944,
+                  "Y": 223.364
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 895.4944,
+                "RightMargin": -974.4944,
+                "TopMargin": -261.864,
+                "BottomMargin": 184.864,
+                "Tag": 196,
+                "ActionTag": 1950260521,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 77.0
+                },
+                "Alpha": 204,
+                "Name": "btn_Seat4",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 191,
+                  "G": 233,
+                  "B": 17
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Page/res/room/btn_invite1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 47,
+                "Scale9Height": 56,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 567.999,
+                  "Y": 65.4247
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 528.499,
+                "RightMargin": -607.499,
+                "TopMargin": -103.9247,
+                "BottomMargin": 26.9247,
+                "Tag": 197,
+                "ActionTag": 2018027130,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 77.0
+                },
+                "Alpha": 204,
+                "Name": "btn_Seat5",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 191,
+                  "G": 233,
+                  "B": 17
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Page/res/room/btn_invite1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 47,
+                "Scale9Height": 56,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 221.0586,
+                  "Y": 223.364
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 181.5586,
+                "RightMargin": -260.5586,
+                "TopMargin": -261.864,
+                "BottomMargin": 184.864,
+                "Tag": 198,
+                "ActionTag": -1522173793,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 77.0
+                },
+                "Alpha": 204,
+                "Name": "btn_Seat6",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 191,
+                  "G": 233,
+                  "B": 17
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Page/res/room/btn_invite1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 47,
+                "Scale9Height": 56,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 78.4095,
+                  "Y": 386.7536
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 38.9095,
+                "RightMargin": -117.9095,
+                "TopMargin": -425.2536,
+                "BottomMargin": 348.2536,
+                "Tag": 199,
+                "ActionTag": 1601876744,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 77.0
+                },
+                "Alpha": 204,
+                "Name": "btn_Seat7",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 191,
+                  "G": 233,
+                  "B": 17
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Page/res/room/btn_invite1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 47,
+                "Scale9Height": 56,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 226.0586,
+                  "Y": 571.1094
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 186.5586,
+                "RightMargin": -265.5586,
+                "TopMargin": -609.6094,
+                "BottomMargin": 532.6094,
+                "Tag": 200,
+                "ActionTag": -1091146619,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 77.0
+                },
+                "Alpha": 204,
+                "Name": "btn_Seat8",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 191,
+                  "G": 233,
+                  "B": 17
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Page/res/room/btn_invite1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 47,
+                "Scale9Height": 56,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 429.9579,
+                  "Y": 571.1094
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 390.4579,
+                "RightMargin": -469.4579,
+                "TopMargin": -609.6094,
+                "BottomMargin": 532.6094,
+                "Tag": 201,
+                "ActionTag": -470767763,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 77.0
+                },
+                "Alpha": 204,
+                "Name": "btn_Seat9",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 2121585875,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "node_seat",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1136.0,
+            "TopMargin": 640.0,
+            "Tag": 55,
+            "ActionTag": -1864158729,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "node_roles",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1136.0,
+            "BottomMargin": 640.0,
+            "Tag": 65,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -13,
+                "Scale9OriginY": -4,
+                "Scale9Width": 26,
+                "Scale9Height": 8,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": -320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": -1136.0,
+                "BottomMargin": -640.0,
+                "Tag": 57,
+                "ActionTag": 81838579,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 640.0
+                },
+                "Alpha": 0,
+                "Name": "btn_quit",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 715663301,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "node_menu",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "Page/res/room/btn_back1.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "Page/res/room/btn_back2.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBox_Disable.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "Page/res/room/btn_back2.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Default",
+              "Path": "Default/CheckBoxNode_Disable.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 38.0007,
+              "Y": 602.0789
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0335,
+              "Y": 0.9407
+            },
+            "PreSize": {
+              "X": 0.0651,
+              "Y": 0.1156
+            },
+            "LeftMargin": 1.0007,
+            "RightMargin": 1060.9993,
+            "TopMargin": 0.9211,
+            "BottomMargin": 565.0789,
+            "Tag": 61,
+            "ActionTag": 1427078931,
+            "Size": {
+              "X": 74.0,
+              "Y": 74.0
+            },
+            "Name": "cb_menu",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "Page/res/room/btn_cardType2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Page/res/room/btn_cardType1.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 47,
+            "Scale9Height": 58,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1095.8113,
+              "Y": 219.5119
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9646,
+              "Y": 0.343
+            },
+            "PreSize": {
+              "X": 0.0678,
+              "Y": 0.125
+            },
+            "LeftMargin": 1057.3113,
+            "RightMargin": 1.6887,
+            "TopMargin": 380.4882,
+            "BottomMargin": 179.5119,
+            "Tag": 210,
+            "ActionTag": -769697866,
+            "Size": {
+              "X": 77.0,
+              "Y": 80.0
+            },
+            "Name": "btn_tip",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "Page/res/room/btn_Buy2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Page/res/room/btn_Buy1.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 50,
+            "Scale9Height": 58,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1087.412,
+              "Y": 572.2889
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9572,
+              "Y": 0.8942
+            },
+            "PreSize": {
+              "X": 0.0704,
+              "Y": 0.125
+            },
+            "LeftMargin": 1047.412,
+            "RightMargin": 8.588,
+            "TopMargin": 27.7111,
+            "BottomMargin": 532.2889,
+            "Tag": 129,
+            "ActionTag": -728838227,
+            "Size": {
+              "X": 80.0,
+              "Y": 80.0
+            },
+            "Name": "btn_shop",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 568.0,
+              "Y": 680.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0625
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 568.0,
+            "RightMargin": 568.0,
+            "TopMargin": -40.0,
+            "BottomMargin": 680.0,
+            "Tag": 181,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Page/res/room/top_bar_bg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": -8.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -462.5,
+                "RightMargin": -462.5,
+                "TopMargin": -16.0002,
+                "BottomMargin": -33.9998,
+                "Tag": 182,
+                "ActionTag": 36527443,
+                "Size": {
+                  "X": 925.0,
+                  "Y": 50.0
+                },
+                "Name": "bg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "30秒后讲升级大小盲注",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/dream.ttf",
+                  "Plist": ""
+                },
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0006,
+                  "Y": -10.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -120.9994,
+                "RightMargin": -121.0006,
+                "TopMargin": -2.0002,
+                "BottomMargin": -23.9998,
+                "Tag": 183,
+                "ActionTag": -2109307403,
+                "Size": {
+                  "X": 240.0,
+                  "Y": 27.0
+                },
+                "Name": "lbl_top_tip",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1141283026,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "node_top",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 565.3542,
+              "Y": 479.7831
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4977,
+              "Y": 0.7497
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 565.3542,
+            "RightMargin": 570.6458,
+            "TopMargin": 160.2169,
+            "BottomMargin": 479.7831,
+            "Tag": 204,
+            "ActionTag": 182064518,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "node_totalChip",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1136.0,
+            "TopMargin": 640.0,
+            "Tag": 651,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Tag": 115,
+                "ActionTag": 2025956934,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "dy_node",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Tag": 131,
+                "ActionTag": -2119342879,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "win_node",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 1191812531,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "topNode",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "root",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../Default/CheckBox_Disable.png",
+        "../../Default/CheckBoxNode_Disable.png",
+        "../../fonts/dream.ttf",
+        "../../fonts/font20_outLine.fnt",
+        "../../fonts/font20_outLine.png",
+        "../res/room/btn_back1.png",
+        "../res/room/btn_back2.png",
+        "../res/room/btn_Buy1.png",
+        "../res/room/btn_Buy2.png",
+        "../res/room/btn_cardType1.png",
+        "../res/room/btn_cardType2.png",
+        "../res/room/btn_invite1.png",
+        "../res/room/table1.png",
+        "../res/room/table2.png",
+        "../res/room/top_bar_bg.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}
