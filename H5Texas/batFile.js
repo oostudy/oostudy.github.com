@@ -8,7 +8,6 @@
 require([ 
 	"main",
 	 "resource",
-	 "texas/init",
 	 "texas/Logic/GCardTool",
 	 "texas/Logic/GServerMonitor",
 	 "texas/View/Page/Page_Room",
