@@ -4,7 +4,6 @@ var g_resources = [
     "Default/CheckBox_Disable.png",
     "fonts/agency_font30_outLine.fnt",
     "fonts/agency_font30_outLine.png",
-    "fonts/dream.ttf",
     "fonts/font20_outLine.fnt",
     "fonts/font20_outLine.png",
     "image/avatar/1.png",
